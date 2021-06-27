@@ -7,6 +7,11 @@
     text-align: center;
   }
   
+.BigText {
+  color: #ef233c;
+  font-size: 60px;
+}
+
   .cards__container {
     display: flex;
     flex-flow: column;

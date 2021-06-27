@@ -39,7 +39,7 @@ export default function Navbar(){
                 offset={-70}
                 duration={500}
               >
-                Video
+                Video Demo
               </Link>
             </li>
             <li className="nav-item">

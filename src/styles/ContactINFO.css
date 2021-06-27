@@ -1,0 +1,27 @@
+.ContactINFOcontainer {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+}
+
+.ContactINFOcontainer > h1 {
+    font-size: 80px;
+    font-family: 'Exo 2', sans-serif;
+    color: #ef233c;
+    padding-bottom: 25px;
+}
+
+.ContactINFOcontainer > h2 {
+    font-size: 40px;
+    font-family: 'Exo 2', sans-serif;
+}
+
+.ContactINFOcontainer > h3 {
+    font-size: 25px;
+    padding-top: 10px;
+    font-family: 'Exo 2', sans-serif;
+    color: #ef233c;
+}
