@@ -9,6 +9,13 @@
   }
   
   .nav-logo {
+    display: inline;
+    margin-top: 15px;
+    font-family: 'Impact';
+    size: 50px;
+    color: rgb(255, 255, 255);
+    text-shadow: 4px 4px 3px #ce0606;
+    -webkit-text-stroke: 0.75px black;
     height: 50px;
     width: 100px;
   }
