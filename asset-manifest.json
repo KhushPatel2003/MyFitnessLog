@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MyFitnessLog/static/css/main.e7706404.chunk.css",
-    "main.js": "/MyFitnessLog/static/js/main.f32cedfe.chunk.js",
-    "main.js.map": "/MyFitnessLog/static/js/main.f32cedfe.chunk.js.map",
+    "main.js": "/MyFitnessLog/static/js/main.0831a822.chunk.js",
+    "main.js.map": "/MyFitnessLog/static/js/main.0831a822.chunk.js.map",
     "runtime-main.js": "/MyFitnessLog/static/js/runtime-main.ab24f77f.js",
     "runtime-main.js.map": "/MyFitnessLog/static/js/runtime-main.ab24f77f.js.map",
     "static/js/2.61fb6aed.chunk.js": "/MyFitnessLog/static/js/2.61fb6aed.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.ab24f77f.js",
     "static/js/2.61fb6aed.chunk.js",
     "static/css/main.e7706404.chunk.css",
-    "static/js/main.f32cedfe.chunk.js"
+    "static/js/main.0831a822.chunk.js"
   ]
 }
