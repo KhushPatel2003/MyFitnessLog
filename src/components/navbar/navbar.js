@@ -15,7 +15,7 @@ export default function Navbar(){
             alt="Logo."
             onClick={scrollToTop}
           >
-              Bite Size
+              Byte Size
           </h1>
           <ul className="nav-items">
             <li className="nav-item">
