@@ -15,7 +15,7 @@ function HeroSection() {
             <Link
                 className="Button"
                 activeClass="active"
-                to=""
+                to="info"
                 spy={true}
                 smooth={true}
                 offset={-70}
