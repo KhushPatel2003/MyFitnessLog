@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MyFitnessLog/static/css/main.e7706404.chunk.css",
+    "main.js": "/MyFitnessLog/static/js/main.f32cedfe.chunk.js",
+    "main.js.map": "/MyFitnessLog/static/js/main.f32cedfe.chunk.js.map",
+    "runtime-main.js": "/MyFitnessLog/static/js/runtime-main.ab24f77f.js",
+    "runtime-main.js.map": "/MyFitnessLog/static/js/runtime-main.ab24f77f.js.map",
+    "static/js/2.61fb6aed.chunk.js": "/MyFitnessLog/static/js/2.61fb6aed.chunk.js",
+    "static/js/2.61fb6aed.chunk.js.map": "/MyFitnessLog/static/js/2.61fb6aed.chunk.js.map",
+    "index.html": "/MyFitnessLog/index.html",
+    "static/css/main.e7706404.chunk.css.map": "/MyFitnessLog/static/css/main.e7706404.chunk.css.map",
+    "static/js/2.61fb6aed.chunk.js.LICENSE.txt": "/MyFitnessLog/static/js/2.61fb6aed.chunk.js.LICENSE.txt",
+    "static/media/MyFitnessLogBackground.071c5187.PNG": "/MyFitnessLog/static/media/MyFitnessLogBackground.071c5187.PNG",
+    "static/media/Vector.8a7a67b8.PNG": "/MyFitnessLog/static/media/Vector.8a7a67b8.PNG",
+    "static/media/exercise.67a8dc51.PNG": "/MyFitnessLog/static/media/exercise.67a8dc51.PNG",
+    "static/media/gain.ef14c298.PNG": "/MyFitnessLog/static/media/gain.ef14c298.PNG",
+    "static/media/loss.80cfe348.PNG": "/MyFitnessLog/static/media/loss.80cfe348.PNG",
+    "static/media/maintaine.e90536a5.PNG": "/MyFitnessLog/static/media/maintaine.e90536a5.PNG",
+    "static/media/trackingCALS.57e90eb5.PNG": "/MyFitnessLog/static/media/trackingCALS.57e90eb5.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab24f77f.js",
+    "static/js/2.61fb6aed.chunk.js",
+    "static/css/main.e7706404.chunk.css",
+    "static/js/main.f32cedfe.chunk.js"
+  ]
+}
