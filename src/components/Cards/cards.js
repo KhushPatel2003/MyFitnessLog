@@ -10,7 +10,7 @@ import tracking from '../../images/trackingCALS.PNG';
 function Cards() {
     return (
         <div className="cards" id="info">
-            <h1>All your fitness needs, fulfuilled.!</h1>
+            <h1 className="BigText">All your fitness needs, fulfuilled.!</h1>
             <br />
             <br />
             <div className="cards__container">
