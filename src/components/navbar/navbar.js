@@ -1,7 +1,6 @@
 import React from 'react';
 import '../../styles/navbar.css'
 import { Link, animateScroll as scroll } from "react-scroll";
-import Dumbell from '../../images/dumbell.png';
 
 export default function Navbar(){
     const scrollToTop = () => {

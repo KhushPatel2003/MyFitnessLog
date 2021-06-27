@@ -2,7 +2,7 @@ import React from 'react';
 import '../../styles/LandingPage.css';
 import '../../styles/App.css';
 import Background from '../../images/MyFitnessLogBackground.PNG';
-import { Link, animateScroll as scroll } from "react-scroll";
+import { Link } from "react-scroll";
 
 function HeroSection() {
     return (
