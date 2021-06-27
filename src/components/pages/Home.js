@@ -2,13 +2,15 @@ import React from 'react';
 import '../../styles/App.css';
 import HeroSection from '../LandingPage/LandingPage';
 import Navbar from '../navbar/navbar';
+import Cards from '../Cards/cards';
 import Contact from '../contact/contact';
 
 export default function Home() {
     return (
         <>
           <Navbar/>
-          <HeroSection />  
+          <HeroSection />
+          <Cards />  
           <Contact />
         </>
     );
