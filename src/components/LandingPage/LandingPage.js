@@ -7,7 +7,7 @@ import { Link, animateScroll as scroll } from "react-scroll";
 function HeroSection() {
     return (
         <div className="HeroContainer">
-            <img src={Background} alt="Food"/>
+            <img classNmae="hero-img" src={Background} alt="Food"/>
             <h1>Prioritize</h1>
             <h1>Health‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎</h1>
             <h1>and‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎</h1>

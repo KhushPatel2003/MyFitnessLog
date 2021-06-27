@@ -11,12 +11,13 @@ export default function Navbar(){
     return(
         <nav className="nav" id="navbar">
         <div className="nav-content">
-          <img
-            src={Dumbell}
+          <h1
             className="nav-logo"
             alt="Logo."
             onClick={scrollToTop}
-          />
+          >
+              Bite Size
+          </h1>
           <ul className="nav-items">
             <li className="nav-item">
               <Link

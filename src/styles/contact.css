@@ -1,0 +1,80 @@
+.container-main {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+}
+
+@media only screen and (max-width: 420px) {
+    .container-contact {
+        width: 70%;
+    }
+}
+
+@media only screen and (min-width: 420px) {
+    .container-contact {
+        width: 40%;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .container-contact {
+        width: 40%;
+    }
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #2B2D42;
+    object-fit: contain;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ef233c;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+.container-contact {
+    border-radius: 15px;
+    padding: 20px;
+    background-color: #2B2D42;
+    width: 25%;
+}
+
+.submit {
+      align-content: center;
+}
+
+.name{
+    color: #ef233c;
+}
+
+.btn {
+background-color: #ef233c;
+box-shadow: 0 5px 0 darkred;
+border-radius: 15%;
+color: white;
+padding: 1em 1.5em;
+position: relative;
+text-decoration: none;
+}
+
+.btn:hover {
+background-color: #ce0606;
+}
+
+.btn:active {
+box-shadow: none;
+top: 5px;
+}
