@@ -5,7 +5,7 @@ import '../../styles/contact.css';
 export default function Contact () {
     return (
         <>
-            <div id="contact">
+            <div>
                 <div className="container-main"> 
                         <br/>
                         <br/>
@@ -16,7 +16,6 @@ export default function Contact () {
                                 <FiMail size="15%" className="name"/>
                                 <h1 className="name">Contact Us</h1>
                             </div>
-
                             <form 
                                 method="post"
                                 name="Contact Me"   
