@@ -5,13 +5,15 @@ import Navbar from '../navbar/navbar';
 import Cards from '../Cards/cards';
 import Contact from '../contact/contact';
 import ContactINFO from '../ContactINFO/ContactINFO';
+import Video from '../video/video';
 
 export default function Home() {
     return (
         <>
           <Navbar/>
-          <HeroSection />
-          <Cards />  
+          <HeroSection />  
+          <Cards /> 
+          <Video /> 
           <ContactINFO />
           <Contact />
         </>
