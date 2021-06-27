@@ -7,7 +7,7 @@ import Home from './components/pages/Home';
 function App() {
   return (
     <>
-      <Router>
+      <Router basename="/MyFitnessLog">
         <Switch>
           <Route path='/' exact component={Home}/>
         </Switch>
