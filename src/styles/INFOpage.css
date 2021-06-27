@@ -1,0 +1,52 @@
+.INFOpageBIN {
+    background: white;
+    display: table;
+    width: 100%;
+    text-align: center;
+    box-sizing: border-box;
+    height: 75vh;
+}
+
+article {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    padding: 20px;
+}
+
+.LeftArticle {
+    margin-left: 90px;
+    background-color: #ef233c;
+}
+
+.Vectors {
+    height: 500px;
+    width: 500px;
+    margin-left: -250px;
+    margin-top: -225px;
+}
+
+.Left {
+    position: absolute;
+    left: 0px;
+    width: 40%;
+}
+
+.Right {
+    position: absolute;
+    right: 0px;
+    width: 50%;
+}
+
+.Lefty {
+    font-size: 60px;
+    padding-bottom: 30px;
+    color: #ffffff;
+}
+
+.LeftyP {
+    font-size: 25px;
+    color: #ffffff;
+}
